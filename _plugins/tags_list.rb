@@ -1,4 +1,4 @@
-<!--
+
 module Jekyll
 
   module Tagslist
@@ -88,4 +88,3 @@ module Jekyll
 end
 
 Liquid::Template.register_tag('tags_list', Jekyll::Tagslist::TagslistTag)
--->
