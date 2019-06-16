@@ -1,6 +1,6 @@
 # Site/SEO settings
 email: sendmestamps@gmail.com
-baseurl: ""
+baseurl: "/blog"
 permalink: /:year/:month/:day/:title/
 google_analytics:
 
