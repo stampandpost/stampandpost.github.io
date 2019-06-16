@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stamp &amp; Post</title>
+    <description>Limited run, bundles of international stamps. No bundle is the same, each pack contains ten curated stamps. We preview five stamps and the full list of countries. Stamps are picked solely on design aesthetic, not historical value. We focus on recently issued stamps from national postal agencies.
+</description>
+    <link>http://localhost:4000</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 15 Jun 2019 19:55:38 -0400</pubDate>
+    <lastBuildDate>Sat, 15 Jun 2019 19:55:38 -0400</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>UK: Pink Floyd (2016)</title>
+        <description>&lt;p&gt;&lt;strong&gt;The Dark Side of the Moon&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;With sales in excess of 40 million copies worldwide, The Dark Side Of The Moon remains in the Billboard chart in America over 40 years after its release, and has been entered into the Guinness Book of Records as the longest-charting album. Created by Hipgnosis, with graphics by George Hardie of NTA, the prism device is a classic.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 15 Jun 2019 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2019/06/15/UK-Pink-Floyd/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/06/15/UK-Pink-Floyd/</guid>
+        
+        <category>United Kingdom</category>
+        
+        <category>Arts</category>
+        
+        <category>Year:2016</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>UN: Copenhagen 21 (2015)</title>
+        <description>&lt;p&gt;&lt;strong&gt;21st United Nations Climate Change Conference, COP 21&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The United Nations Postal Administration (UNPA) in cooperation with La Poste, France will jointly issue postage stamps commemorating the 21st United Nations Climate Change Conference, COP 21. For the stamp designs, a competition was organized by the French Postal Service for students of the Saint-Étienne School of Design, France.
+&lt;a href=&quot;https://unfccc.int/news/united-nations-postal-administration-to-issue-cop21-stamps&quot;&gt;Source&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 15 Jun 2019 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2019/06/15/UN-COP-21/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/06/15/UN-COP-21/</guid>
+        
+        <category>United Nations</category>
+        
+        <category>Environment</category>
+        
+        <category>Year:2015</category>
+        
+        
+      </item>
+    
+  </channel>
+</rss>

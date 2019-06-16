@@ -1,0 +1,17 @@
+---
+layout: post
+title: "UN: Copenhagen 21 (2015)"
+date: 2019-06-15
+description:
+image: /assets/images/UN/COP21_Stamp1.png
+author: Elliot Gunn
+tags:
+  - United Nations
+  - Environment
+  - Year:2015
+---
+
+**21st United Nations Climate Change Conference, COP 21**
+
+The United Nations Postal Administration (UNPA) in cooperation with La Poste, France will jointly issue postage stamps commemorating the 21st United Nations Climate Change Conference, COP 21. For the stamp designs, a competition was organized by the French Postal Service for students of the Saint-Étienne School of Design, France.
+[Source](https://unfccc.int/news/united-nations-postal-administration-to-issue-cop21-stamps)
