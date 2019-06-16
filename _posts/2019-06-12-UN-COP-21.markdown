@@ -3,7 +3,7 @@ layout: post
 title: "UN: Copenhagen 21 (2015)"
 date: 2019-06-15
 description:
-image: /Users/elliotgunn/Library/Application Support/GitHub Desktop/stampandpost.io/assets/images/UN/COP21_Stamp1.png
+image: /assets/images/UN/COP21_Stamp1.png
 author: Elliot Gunn
 tags:
   - United Nations

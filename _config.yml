@@ -56,10 +56,9 @@ autopages:
     enabled: false
   collections:
     enabled: false
-
-#  tags:
-#    layouts:
-#      - 'tag.html'
+  tags:
+    layouts:
+      - 'tag.html'
 
     title: 'The Barber Theme'
     permalink: '/tag/:tag'
