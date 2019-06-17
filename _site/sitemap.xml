@@ -21,7 +21,7 @@
 <loc>http://localhost:4000/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/tag/united%20nations/</loc>
+<loc>http://localhost:4000/tag/united-nations/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/tag/environment/</loc>
@@ -30,7 +30,7 @@
 <loc>http://localhost:4000/tag/year:2015/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/tag/united%20kingdom/</loc>
+<loc>http://localhost:4000/tag/united-kingdom/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/tag/arts/</loc>
